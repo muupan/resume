@@ -24,4 +24,4 @@
   - Graduate School of Information Science and Technology, The University of Tokyo
   - Thesis: Automatic Feature Generation and. Model Learning for General Game Players Based on Reinforcement Learning
   
-- B.S Engineering (April 2011 - March 2015)
+- B.S Engineering (April 2011 - March 2013)
