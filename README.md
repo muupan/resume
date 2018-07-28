@@ -8,7 +8,7 @@
 
 ## Publications
 
-- Y. Fujita and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg)
+- Y. Fujita and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
 ## Work experience
 
