@@ -10,6 +10,12 @@
 
 - Y. Fujita and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
+## Code
+
+- [ChainerRL](https://github.com/chainer/chainerrl): A deep RL library in Python and Chainer
+- [async-rl](https://github.com/muupan/async-rl): An A3C implementation in Python and Chainer
+- [DQN-in-the-Caffe](https://github.com/muupan/dqn-in-the-caffe): A DQN implementation in C++ and Caffe
+
 ## Work experience
 
 - Engineer at Preferred Networks, Inc. (April 2015 - Present)
