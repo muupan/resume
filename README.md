@@ -8,6 +8,7 @@
 
 ## Publications
 
+- M. Miyashita, S. Maruyama, **Y. Fujita**, M. Kusumoto, T. Pfeiffer, E. Matsumoto, R. Okuta, and D. Okanohara, “Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning,” in NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/open?id=0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ)
 - J. Rothfuss, I. Clavera, J. Schulman, **Y. Fujita**, T. Asfour, and P. Abbeel, “Model-Based Reinforcement Learning via Meta-Policy Optimization,” in CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
 - **Y. Fujita** and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
