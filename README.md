@@ -8,6 +8,8 @@
 
 ## Publications
 
+- **Y. Fujita**, T. Kataoka, P. Nagarajan, and T. Ishikawa, “ChainerRL: A Deep Reinforcement Learning Library,” in NeurIPS Deep Reinforcement Learning Workshop, 2019.
+- A. Havens, Y. Ouyang, P. Nagarajan, and **Y. Fujita**, “Learning Latent State Spaces for Planning through Reward Prediction,” in NeurIPS Deep Reinforcement Learning Workshop, 2019.
 - Y. Nagano, S. Yamaguchi, **Y. Fujita**, and M. Koyama, “A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning,” in ICML, 2019. [arXiv](https://arxiv.org/abs/1902.02992)
 - M. Miyashita, S. Maruyama, **Y. Fujita**, M. Kusumoto, T. Pfeiffer, E. Matsumoto, R. Okuta, and D. Okanohara, “Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning,” in NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/open?id=0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ)
 - J. Rothfuss, I. Clavera, J. Schulman, **Y. Fujita**, T. Asfour, and P. Abbeel, “Model-Based Reinforcement Learning via Meta-Policy Optimization,” in CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
@@ -28,7 +30,7 @@
   
 ## Professional activities
 
-- Program committee: Deep Reinforcement Learning Workshop at NeurIPS 2018
+- Program committee: Deep Reinforcement Learning Workshop at NeurIPS 2018 and 2019
 - Lecturer: RL part of 先端人工知能論II at the University of Tokyo (2016-2018)
 
 ## Education
