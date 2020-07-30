@@ -19,6 +19,7 @@
 ## Code
 
 - [ChainerRL](https://github.com/chainer/chainerrl): A deep RL library in Python and Chainer
+- [PFRL](https://github.com/pfnet/pfrl): A deep RL library in Python and PyTorch
 - [async-rl](https://github.com/muupan/async-rl): An A3C implementation in Python and Chainer
 - [DQN-in-the-Caffe](https://github.com/muupan/dqn-in-the-caffe): A DQN implementation in C++ and Caffe
 
