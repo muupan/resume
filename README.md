@@ -28,7 +28,7 @@
 - Engineer at Preferred Networks, Inc. (April 2015 - Present)
 
   - Research and development in machine learning for industrial applications including autonomous driving and robotics
-  - Development of [ChainerRL](https://github.com/chainer/chainerrl).
+  - Development of [ChainerRL](https://github.com/chainer/chainerrl) and [PFRL](https://github.com/pfnet/pfrl).
   
 ## Professional activities
 
