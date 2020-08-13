@@ -8,6 +8,8 @@
 
 ## Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=vfOynukAAAAJ)
+
 - **Y. Fujita**, K. Uenishi, A. Ummadisingu, P. Nagarajan, S. Masuda, and M. Y. Castro, “Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators,” IROS, 2020. [arXiv](http://arxiv.org/abs/2007.08082)
 - **Y. Fujita**, T. Kataoka, P. Nagarajan, and T. Ishikawa, “ChainerRL: A Deep Reinforcement Learning Library,” in NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.03905) [code](https://github.com/chainer/chainerrl)
 - A. Havens, Y. Ouyang, P. Nagarajan, and **Y. Fujita**, “Learning Latent State Spaces for Planning through Reward Prediction,” in NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.04201)
