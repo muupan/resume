@@ -20,6 +20,11 @@
 - J. Rothfuss, I. Clavera, J. Schulman, **Y. Fujita**, T. Asfour, and P. Abbeel, “Model-Based Reinforcement Learning via Meta-Policy Optimization,” in CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
 - **Y. Fujita** and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
+## Translations
+
+- Co-translated into Japanese [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html) -> [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.kyoritsu-pub.co.jp/book/b10003874.html)
+- Co-translated into Japanese [Reinforcement Learning: An Introduction (second edition)](http://incompleteideas.net/book/the-book-2nd.html) -> [強化学習 (第2版)](https://www.morikita.co.jp/books/mid/082662)
+
 ## Code
 
 - [ChainerRL](https://github.com/chainer/chainerrl): A deep RL library in Python and Chainer
@@ -37,7 +42,7 @@
 ## Professional activities
 
 - Program committee: Deep Reinforcement Learning Workshop at NeurIPS (2018-2021)
-- Lecturer: RL part of 先端人工知能論II at the University of Tokyo (2016-2018)
+- Guest lecturer: RL part of 先端人工知能論II at the University of Tokyo (2016-2018)
 
 ## Education
 
