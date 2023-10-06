@@ -41,7 +41,7 @@
   
 ## Professional activities
 
-- Program committee: Deep Reinforcement Learning Workshop at NeurIPS (2018-2021)
+- Program committee: Deep Reinforcement Learning Workshop at NeurIPS (2018-2022)
 - Guest lecturer: RL part of 先端人工知能論II at the University of Tokyo (2016-2018)
 
 ## Education
