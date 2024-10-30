@@ -10,15 +10,33 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=vfOynukAAAAJ)
 
-- T. Xu, **Y. Fujita**, and E. Matsumoto,  “Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis,” CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683)
-- **Y. Fujita**, P. Nagarajan, T. Kataoka, and T. Ishikawa, “ChainerRL:  ChainerRL: A Deep Reinforcement Learning Library,” Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code](https://github.com/chainer/chainerrl)
-- **Y. Fujita**, K. Uenishi, A. Ummadisingu, P. Nagarajan, S. Masuda, and M. Y. Castro, “Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators,” IROS, 2020. [arXiv](http://arxiv.org/abs/2007.08082)
-- **Y. Fujita**, T. Kataoka, P. Nagarajan, and T. Ishikawa, “ChainerRL: A Deep Reinforcement Learning Library,” in NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.03905v1) [code](https://github.com/chainer/chainerrl)
-- A. Havens, Y. Ouyang, P. Nagarajan, and **Y. Fujita**, “Learning Latent State Spaces for Planning through Reward Prediction,” in NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.04201)
-- Y. Nagano, S. Yamaguchi, **Y. Fujita**, and M. Koyama, “A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning,” in ICML, 2019. [arXiv](https://arxiv.org/abs/1902.02992)
-- M. Miyashita, S. Maruyama, **Y. Fujita**, M. Kusumoto, T. Pfeiffer, E. Matsumoto, R. Okuta, and D. Okanohara, “Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning,” in NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/open?id=0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ)
-- J. Rothfuss, I. Clavera, J. Schulman, **Y. Fujita**, T. Asfour, and P. Abbeel, “Model-Based Reinforcement Learning via Meta-Policy Optimization,” in CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
-- **Y. Fujita** and S. Maeda, “Clipped Action Policy Gradient,” in ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
+- **PLaMo-100B: A Ground-Up Language Model Designed for Japanese Proficiency**
+  - Preferred Elements, Inc.
+  - Technical paper, 2024. [arXiv](https://arxiv.org/abs/2410.07563)
+- **Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis**
+  - Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto 
+  - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683)
+- **ChainerRL:  ChainerRL: A Deep Reinforcement Learning Library**
+  - Yasuhiro Fujita, Prabhat Nagarajan, Toshiki Kataoka, Takahiro Ishikawa
+  - Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code](https://github.com/chainer/chainerrl)
+- **Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators**
+  - Yasuhiro Fujita, Kota Uenishi, Avinash Ummadisingu, Prabhat Nagarajan, Shimpei Masuda, Mario Ynocente Castro
+  - IROS, 2020. [arXiv](http://arxiv.org/abs/2007.08082)
+- **Learning Latent State Spaces for Planning through Reward Prediction**
+  - Aaron Havens, Yi Ouyang, Prabhat Nagarajan, Yasuhiro Fujita
+  - NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.04201)
+- **A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning**
+  - Yoshihiro Nagano, Shoichiro Yamaguchi, Yasuhiro Fujita, Masanori Koyama
+  - ICML, 2019. [arXiv](https://arxiv.org/abs/1902.02992)
+- **Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning**
+  - Megumi Miyashita, Shirou Maruyama, Yasuhiro Fujita, Mitsuru Kusumoto, Tobias Pfeiffer, Eiichi Matsumoto, Ryosuke Okuta, Daisuke Okanohara
+  - NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/file/d/0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ/view)
+- **Model-Based Reinforcement Learning via Meta-Policy Optimization**
+  - Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour, Pieter Abbeel
+  - CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
+- **Clipped Action Policy Gradient**
+  - Yasuhiro Fujita, Shin-ichi Maeda
+  - ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
 ## Translations
 
