@@ -30,7 +30,7 @@
   - ICML, 2019. [arXiv](https://arxiv.org/abs/1902.02992)
 - **Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning**
   - Megumi Miyashita, Shirou Maruyama, <ins>Yasuhiro Fujita</ins>, Mitsuru Kusumoto, Tobias Pfeiffer, Eiichi Matsumoto, Ryosuke Okuta, Daisuke Okanohara
-  - NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/file/d/0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ/view)
+  - NeurIPS Deep Reinforcement Learning Workshop, 2018. [pdf](https://drive.google.com/file/d/0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ/view)
 - **Model-Based Reinforcement Learning via Meta-Policy Optimization**
   - Ignasi Clavera, Jonas Rothfuss, John Schulman, <ins>Yasuhiro Fujita</ins>, Tamim Asfour, Pieter Abbeel
   - CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
