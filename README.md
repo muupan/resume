@@ -1,4 +1,4 @@
-# Yasuhiro Fujita
+# Yasuhiro Fujita / 藤田康博
 
 - Email: muupan@gmail.com
 
