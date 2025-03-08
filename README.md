@@ -12,7 +12,7 @@
 - **Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis**
   - Tianhan Xu, <ins>Yasuhiro Fujita</ins>, Eiichi Matsumoto 
   - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683) [code](https://github.com/pfnet-research/surface-aligned-nerf)
-- **ChainerRL:  ChainerRL: A Deep Reinforcement Learning Library**
+- **ChainerRL: A Deep Reinforcement Learning Library**
   - <ins>Yasuhiro Fujita</ins>, Prabhat Nagarajan, Toshiki Kataoka, Takahiro Ishikawa
   - Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code (Chainer)](https://github.com/chainer/chainerrl) [code (PyTorch)](https://github.com/pfnet/pfrl)
 - **Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators**
