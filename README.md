@@ -53,6 +53,11 @@
 - [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
   - Co-translated into Japanese: [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.kyoritsu-pub.co.jp/book/b10003874.html)
 
+## Talks
+
+- ゼロから始める深層強化学習 / Introduction of Deep Reinforcement Learning
+  - 言語処理学会第24回年次大会(NLP2018)チュートリアル. [slides](https://www.slideshare.net/slideshow/nlp2018-introduction-of-deep-reinforcement-learning/91644340)
+
 ## Code
 
 - [ChainerRL](https://github.com/chainer/chainerrl): A deep RL library in Python and Chainer
