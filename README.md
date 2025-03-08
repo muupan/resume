@@ -1,15 +1,11 @@
 # Yasuhiro Fujita / 藤田康博
 
 - Email: muupan@gmail.com
-
-## Research interests
-
-- Reinforcement learning
+- Research interests: reinforcement learning, machine learning
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=vfOynukAAAAJ)
-
 
 ### Peer-reviewed
 
@@ -66,8 +62,9 @@
 
 ## Work experience
 
+- Engineer at Preferred Elements, Inc. (November 2024 - Present)
+  - Research and development in post-training of large language models.
 - Engineer at Preferred Networks, Inc. (April 2015 - Present)
-
   - Research and development in machine learning for industrial applications: autonomous driving, robotics, computer graphics, and quantitative finance.
   - OSS development for reinforcement learning: [ChainerRL](https://github.com/chainer/chainerrl) and [PFRL](https://github.com/pfnet/pfrl).
   
@@ -79,8 +76,6 @@
 ## Education
 
 - M.S. Information Science and Technology (April 2013 - March 2015)
-
   - Graduate School of Information Science and Technology, The University of Tokyo
   - Thesis: “Automatic Feature Generation and Model Learning for General Game Players Based on Reinforcement Learning“
-  
 - B.S Engineering (April 2011 - March 2013)
