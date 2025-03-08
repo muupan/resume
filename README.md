@@ -14,7 +14,7 @@
   - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683) [code](https://github.com/pfnet-research/surface-aligned-nerf)
 - **ChainerRL:  ChainerRL: A Deep Reinforcement Learning Library**
   - <ins>Yasuhiro Fujita</ins>, Prabhat Nagarajan, Toshiki Kataoka, Takahiro Ishikawa
-  - Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code](https://github.com/chainer/chainerrl)
+  - Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code (Chainer)](https://github.com/chainer/chainerrl) [code (PyTorch)](https://github.com/pfnet/pfrl)
 - **Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators**
   - <ins>Yasuhiro Fujita</ins>, Kota Uenishi, Avinash Ummadisingu, Prabhat Nagarajan, Shimpei Masuda, Mario Ynocente Castro
   - IROS, 2020. [arXiv](http://arxiv.org/abs/2007.08082)
