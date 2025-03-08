@@ -40,8 +40,10 @@
 
 ## Translations
 
-- Co-translated into Japanese [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html) -> [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.kyoritsu-pub.co.jp/book/b10003874.html)
-- Co-translated into Japanese [Reinforcement Learning: An Introduction (second edition)](http://incompleteideas.net/book/the-book-2nd.html) -> [強化学習 (第2版)](https://www.morikita.co.jp/books/mid/082662)
+- [Reinforcement Learning: An Introduction (second edition)](http://incompleteideas.net/book/the-book-2nd.html)
+  - Co-translated into Japanese: [強化学習 (第2版)](https://www.morikita.co.jp/books/mid/082662)
+- [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
+  - Co-translated into Japanese: [速習 強化学習 ―基礎理論とアルゴリズム―](https://www.kyoritsu-pub.co.jp/book/b10003874.html)
 
 ## Code
 
