@@ -14,28 +14,28 @@
   - Preferred Elements, Inc.
   - Technical paper, 2024. [arXiv](https://arxiv.org/abs/2410.07563)
 - **Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis**
-  - Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto 
-  - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683)
+  - Tianhan Xu, <ins>Yasuhiro Fujita</ins>, Eiichi Matsumoto 
+  - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683) [code](https://github.com/pfnet-research/surface-aligned-nerf)
 - **ChainerRL:  ChainerRL: A Deep Reinforcement Learning Library**
-  - Yasuhiro Fujita, Prabhat Nagarajan, Toshiki Kataoka, Takahiro Ishikawa
+  - <ins>Yasuhiro Fujita</ins>, Prabhat Nagarajan, Toshiki Kataoka, Takahiro Ishikawa
   - Journal of Machine Learning Research, 22(77), 1-14. [arXiv](https://arxiv.org/abs/1912.03905v2) [code](https://github.com/chainer/chainerrl)
 - **Distributed Reinforcement Learning of Targeted Grasping with Active Vision for Mobile Manipulators**
-  - Yasuhiro Fujita, Kota Uenishi, Avinash Ummadisingu, Prabhat Nagarajan, Shimpei Masuda, Mario Ynocente Castro
+  - <ins>Yasuhiro Fujita</ins>, Kota Uenishi, Avinash Ummadisingu, Prabhat Nagarajan, Shimpei Masuda, Mario Ynocente Castro
   - IROS, 2020. [arXiv](http://arxiv.org/abs/2007.08082)
 - **Learning Latent State Spaces for Planning through Reward Prediction**
-  - Aaron Havens, Yi Ouyang, Prabhat Nagarajan, Yasuhiro Fujita
+  - Aaron Havens, Yi Ouyang, Prabhat Nagarajan, <ins>Yasuhiro Fujita</ins>
   - NeurIPS Deep Reinforcement Learning Workshop, 2019. [arXiv](https://arxiv.org/abs/1912.04201)
 - **A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning**
-  - Yoshihiro Nagano, Shoichiro Yamaguchi, Yasuhiro Fujita, Masanori Koyama
+  - Yoshihiro Nagano, Shoichiro Yamaguchi, <ins>Yasuhiro Fujita</ins>, Masanori Koyama
   - ICML, 2019. [arXiv](https://arxiv.org/abs/1902.02992)
 - **Toward Onboard Control System for Mobile Robots via Deep Reinforcement Learning**
-  - Megumi Miyashita, Shirou Maruyama, Yasuhiro Fujita, Mitsuru Kusumoto, Tobias Pfeiffer, Eiichi Matsumoto, Ryosuke Okuta, Daisuke Okanohara
+  - Megumi Miyashita, Shirou Maruyama, <ins>Yasuhiro Fujita</ins>, Mitsuru Kusumoto, Tobias Pfeiffer, Eiichi Matsumoto, Ryosuke Okuta, Daisuke Okanohara
   - NeurIPS Deep RL Workshop, 2018. [pdf](https://drive.google.com/file/d/0B_utB5Y8Y6D5d0NFZ25CdGluRDVGTlVyMHh2Q1g4NXZNbTJJ/view)
 - **Model-Based Reinforcement Learning via Meta-Policy Optimization**
-  - Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour, Pieter Abbeel
+  - Ignasi Clavera, Jonas Rothfuss, John Schulman, <ins>Yasuhiro Fujita</ins>, Tamim Asfour, Pieter Abbeel
   - CoRL, 2018. [arXiv](https://arxiv.org/abs/1809.05214)
 - **Clipped Action Policy Gradient**
-  - Yasuhiro Fujita, Shin-ichi Maeda
+  - <ins>Yasuhiro Fujita</ins>, Shin-ichi Maeda
   - ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
 ## Translations
