@@ -73,7 +73,7 @@
   - Research and development in machine learning for industrial applications: autonomous driving, robotics, computer graphics, and quantitative finance.
   - OSS development for reinforcement learning: [ChainerRL](https://github.com/chainer/chainerrl) and [PFRL](https://github.com/pfnet/pfrl).
   
-## Professional activities
+## Social activities
 
 - Program committee: Deep Reinforcement Learning Workshop at NeurIPS (2018-2022)
 - Guest lecturer: RL part of 先端人工知能論II at the University of Tokyo (2016-2018)
