@@ -9,6 +9,9 @@
 
 ### Peer-reviewed
 
+- **Entropy Controllable Direct Preference Optimization**
+  - Motoki Omura, <ins>Yasuhiro Fujita</ins>, Toshiki Kataoka
+  - ICML Workshop on Models of Human Feedback for AI Alignment, 2025. [arXiv](https://arxiv.org/abs/2411.07595)
 - **Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis**
   - Tianhan Xu, <ins>Yasuhiro Fujita</ins>, Eiichi Matsumoto 
   - CVPR, 2022. [arXiv](https://arxiv.org/abs/2201.01683) [code](https://github.com/pfnet-research/surface-aligned-nerf)
@@ -39,9 +42,6 @@
 - **Experience Replay with Random Reshuffling**
   - <ins>Yasuhiro Fujita</ins>
   - Preprint, 2025. [arXiv](https://arxiv.org/abs/2503.02269) [code](https://github.com/pfnet-research/errr)
-- **Entropy Controllable Direct Preference Optimization**
-  - Motoki Omura, <ins>Yasuhiro Fujita</ins>, Toshiki Kataoka
-  - Preprint, 2024. [arXiv](https://arxiv.org/abs/2411.07595)
 - **PLaMo-100B: A Ground-Up Language Model Designed for Japanese Proficiency**
   - Preferred Elements, Inc.
   - Technical paper, 2024. [arXiv](https://arxiv.org/abs/2410.07563)
