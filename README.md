@@ -38,7 +38,9 @@
   - ICML, 2018. [arXiv](https://arxiv.org/abs/1802.07564) [code](https://github.com/pfnet-research/capg) [slides](https://www.slideshare.net/mooopan/clipped-action-policy-gradient-107793858)
 
 ### Non peer-reviewed
-
+- **PLaMo 2 Technical Report**
+  - Preferred Networks, Inc.
+  - Technical paper, 2025. [arXiv](https://arxiv.org/abs/2509.04897)
 - **Experience Replay with Random Reshuffling**
   - <ins>Yasuhiro Fujita</ins>
   - Preprint, 2025. [arXiv](https://arxiv.org/abs/2503.02269) [code](https://github.com/pfnet-research/errr)
